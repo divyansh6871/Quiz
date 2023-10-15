@@ -5,6 +5,10 @@
     border-radius: 15px;
 }
 
+.finalanswer{
+    display: none;
+}
+
 .bg-general {
     background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.2)), url(../photo/general_background.jpg);
     z-index: 0.5;
