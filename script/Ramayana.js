@@ -7,7 +7,7 @@ let quan = [
     {
         "ques": "Events Related to Ramayan happened in which Yuga?",
         "sol": { "a": "Sat Yuga", "b": "Treta Yuga", "c": "Dwapar Yuga", "d": "Kali Yuga" },
-        "correct": "Treta Yuga"
+        "correct": "2"
     },
     {
         "ques": "Maharaj Dashratha Had how many wife?",
@@ -17,258 +17,254 @@ let quan = [
     {
         "ques": "Who was first wife of Maharaj Dahsratha?",
         "sol": { "a": "Mata Kausalya", "b": "Mata Kaikeyi", "c": "Mata Sumitra", "d": "None" },
-        "correct": "Mata Kausalya"
+        "correct": "1"
     },
     {
         "ques": "Who was second wife of Maharaj Dahsratha?",
         "sol": { "a": "Mata Kausalya", "b": "Mata Kaikeyi", "c": "Mata Sumitra", "d": "None" },
-        "correct": "Mata Kaikeyi"
+        "correct": "2"
     },
     {
         "ques": "Who was third wife of Maharaj Dahsratha?",
         "sol": { "a": "Mata Kausalya", "b": "Mata Kaikeyi", "c": "Mata Sumitra", "d": "None" },
-        "correct": "Mata Sumitra"
+        "correct": "3"
     },
     {
         "ques": "what was the name of family servant that made the Mata Kaikeyi mind diverted?",
         "sol": { "a": "Bimla", "b": "Kamla", "c": "Kiran", "d": "Manthara" },
-        "correct": "Manthara"
+        "correct": "4"
     },
     {
         "ques": "Lord Ram was Avtar of whom?",
         "sol": { "a": "Lord Vishnu", "b": "Lord Shankar", "c": "Both", "d": "None of them" },
-        "correct": "Lord Visnu, although Lord Ram is sampoorna Avtar"
+        "correct": "1"
     },
     {
         "ques": "Maharaj Dashratha had how many son",
         "sol": { "a": "2", "b": "3", "c": "4", "d": "5" },
-        "correct": "4"
+        "correct": "3"
     },
     {
         "ques": "Which Rani of Maharaj Dashratha had 2 sons?",
         "sol": { "a": "Mata Kausalya", "b": "Mata Kaikeyi", "c": "Mata Sumitra", "d": "None" },
-        "correct": "Mata Sumitra"
+        "correct": "3"
     },
     {
         "ques": "Among which pair who was brothers by same mother?",
         "sol": { "a": "Lord Ram and Lord Lakshmana", "b": "Lord Ram and Lord Bharat", "c": "Lord Bharat and Lord Shatrughna", "d": "Lord Lakshmana and Lord Shatrughna" },
-        "correct": "Lord Lakshmana and Lord Shatrughna"
+        "correct": "4"
     },
-    //sgsdgdfsghdsfsdfhdsf
-    // sdfghsdfgsdf
-    // asgasgs
-    // asgasgas 
     {
         "ques": "Whom took all four brothers to gurukul?",
         "sol": { "a": "Maharishi Bhardwaj", "b": "Maharishi Agast", "c": "Maharishi valmiki", "d": "Maharishi Vashishta" },
-        "correct": "Maharishi Vashishta"
+        "correct": "4"
     },
     {
         "ques": "Who is aradhya bhagwan of Lord Ram?",
         "sol": { "a": "Lord Shankar", "b": "Lord Vishnu", "c": "Lord Brahma", "d": "none of these" },
-        "correct": "Lord Shankar"
+        "correct": "1"
     },
     {
         "ques": "Lord Ram came to make people free from whom rule?",
         "sol": { "a": "Kartavirya Arjuna", "b": "Dashanan", "c": "Hiranyaksh", "d": "Hiranyakahsyap" },
-        "correct": "Dashanan "
+        "correct": "2 "
     },
     {
         "ques": "For how many years Lord Ram needed to stay in forest?",
         "sol": { "a": "12", "b": "15", "c": "14", "d": "13" },
-        "correct": "14"
+        "correct": "3"
     },
     {
         "ques": "Whom went to forest along with Lord Ram?",
         "sol": { "a": "Mata Sita", "b": "Lord Lakshmana", "c": "Both", "d": "None of them" },
-        "correct": "Both"
+        "correct": "3"
     },
     {
         "ques": "Name of wife of Lord Lakshmana",
-        "sol": { "a": "Mata Sumitra", "b": "Mata Mandvi", "c": "Mata Shrutkirti", "d": "None" },
-        "correct": "Mata Sumitra"
+        "sol": { "a": "Mata Urmila", "b": "Mata Mandvi", "c": "Mata Shrutkirti", "d": "None" },
+        "correct": "1"
     },
     {
         "ques": "Name of wife of Lord Bharat",
-        "sol": { "a": "Mata Sumitra", "b": "Mata Mandvi", "c": "Mata Shrutkirti", "d": "None" },
-        "correct": "Mata Mandvi"
+        "sol": { "a": "Mata Urmila", "b": "Mata Mandvi", "c": "Mata Shrutkirti", "d": "None" },
+        "correct": "2"
     },
     {
         "ques": "Name of wife of Lord Shatrughna",
-        "sol": { "a": "Mata Sumitra", "b": "Mata Mandvi", "c": "Mata Shrutkirti", "d": "None" },
-        "correct": "Mata Shrutkirti"
+        "sol": { "a": "Mata Urmila", "b": "Mata Mandvi", "c": "Mata Shrutkirti", "d": "None" },
+        "correct": "3"
     },
     {
-        "ques": "Where did amous Incident in Ramayana happened?",
+        "ques": "Where did Incident of attacking Shurpanakha in Ramayana happened?",
         "sol": { "a": "Panchvati", "b": "Near ganaga", "c": "Siddhnath Ashram", "d": "Chitrakoot" },
-        "correct": "Chitrakoot"
+        "correct": "4"
     },
     {
         "ques": "Mata Shabri Waited for Lord Ram where?",
         "sol": { "a": "Chitrakoot", "b": "Pampa Saovar", "c": "Matang Rishi ke Ashram", "d": "Drona giri parvat" },
-        "correct": "Pampa Saovar"
+        "correct": "2"
     },
     {
         "ques": "From where Ravana took Mata Sita away.?",
         "sol": { "a": "Dandaka van", "b": "Chitrakoot", "c": "Panchvati", "d": "Kishkindha" },
-        "correct": "Dandaka van"
+        "correct": "1"
     },
     {
-        "ques": "At the time of Sufnakha Kand whose kingdom was there in Dandak van?",
+        "ques": "At the time of Shurpanakha Kand whose kingdom was there in Dandak van?",
         "sol": { "a": "Khar aur Dushan", "b": "Ravan", "c": "Dashanan", "d": "Kumbhkaran" },
-        "correct": "Khar aur Dushan"
+        "correct": "1"
     },
     {
         "ques": "What was the animal in whose form rakshash came to divert Lord Ram?",
         "sol": { "a": "Swarn Heeran ", "b": "Swarn Pakshi", "c": "Swarn Bagh", "d": "Swarn Mrag" },
-        "correct": "Swarn Mrag"
+        "correct": "4"
     },
     {
         "ques": "Mata Shabri told Lord Ram to meet whom?",
         "sol": { "a": "Sugreev ji", "b": "Baali ji", "c": "Hanuman ji", "d": "Jamvantha ji" },
-        "correct": "Sugreev "
+        "correct": "1"
     },
     {
-        "ques": "Which city is called Leather City of India?",
+        "ques": "Where did Maharaj Sugreev stayed before becoming king?",
         "sol": { "a": "Drona giri parvat", "b": "Rishyamukh Parvat", "c": "Dandak Van", "d": "Kishkindha" },
-        "correct": "Rishyamukh Parvat "
+        "correct": "2"
     },
     {
         "ques": "Who was not in the sabha of Sugreev ji before death of Bali?",
         "sol": { "a": "Hanuman ji", "b": "Angad ji", "c": "jamvanth ji", "d": "Kesari ji" },
-        "correct": "Angad ji"
+        "correct": "2"
     },
     {
         "ques": "After Bali Sugreev ji was Maharaja of Kishkindha and Yuvraj was?",
         "sol": { "a": "Hanuman ji", "b": "Nal ji", "c": "Angad ji", "d": "Neel ji" },
-        "correct": "Angad ji"
+        "correct": "3"
     },
     {
         "ques": "How many faces are considered Hanumanj ji to have?",
         "sol": { "a": "4", "b": "1", "c": "3", "d": "5" },
-        "correct": "5, that's why Hanuman ji having a name Panchmukhi"
+        "correct": "4"
     },
     {
         "ques": "Who was not the son of Dashanan?",
         "sol": { "a": "Vibhishan", "b": "Meghnad", "c": "Indrajeeyt", "d": "Prahast" },
-        "correct": "Vibhishan"
+        "correct": "1"
     },
     {
         "ques": "What Vardaan Kumbhkaran wanted?",
         "sol": { "a": "Nidrasan", "b": "Gyan", "c": "Bhakti", "d": "Indrasan" },
-        "correct": "Indrasan"
+        "correct": "4"
     },
     {
         "ques": "Mata Saraswati made the original Vardaan of Kumbhkaran to?",
         "sol": { "a": "Gyan", "b": "Nidrasana", "c": "Bhakti", "d": "Indrasan" },
-        "correct": "Nidrasana"
+        "correct": "2"
     },
     {
         "ques": "Ravan made Mata Sita stayed in?",
-        "sol": { "a": "Virat Vatika", "b": "Phool VAtika", "c": "Ashok Vatika", "d": "None of these" },
-        "correct": "Ashok Vatika"
+        "sol": { "a": "Virat Vatika", "b": "Phool Vatika", "c": "Ashok Vatika", "d": "None of these" },
+        "correct": "3"
     },
     {
         "ques": "Rakshasi who took care of Mata Sita in Lanka?",
         "sol": { "a": "Lankni", "b": "Trijata", "c": "Ahinya", "d": "none of these" },
-        "correct": "Trijata"
+        "correct": "2"
     },
     {
         "ques": "Who was the female gatekeepre in Lanka?",
         "sol": { "a": "Trijata", "b": "Lankni", "c": "Ahinya", "d": "none of these" },
-        "correct": "Lankni"
+        "correct": "2"
     },
     {
         "ques": "Who was the main spy of Dashanan?",
         "sol": { "a": "Vibhishan", "b": "Prahast", "c": "Veerupaksh", "d": "Shukh" },
-        "correct": "Shukh"
+        "correct": "4"
     },
     {
         "ques": "By whom Vajramushti was killed?",
         "sol": { "a": "Maharaja Sugreev", "b": "Hanuman ji", "c": "Lord Ram ji", "d": "Angad ji" },
-        "correct": "Maharaja Sugreev"
+        "correct": "1"
     },
 
     {
         "ques": "By whom Prahast was killed?",
         "sol": { "a": "Hanuman ji", "b": "Lord Lakshman", "c": "Lord Ram", "d": "Jamvanth ji" },
-        "correct": "Lord Lakshman"
+        "correct": "2"
     },
 
     {
         "ques": "By whom sena nayak Durmukh was killed?",
         "sol": { "a": "Senapati Neel", "b": "Maharaj Sugreev", "c": "Lord Ram", "d": "Lord Hanuman ji" },
-        "correct": "Lord hanuman ji"
+        "correct": "4"
     },
 
     {
         "ques": "By whom Veer Makraksh was killed?",
         "sol": { "a": "Lord Ram ji", "b": "Angad Ji", "c": "Senapati Neel", "d": "Senapati Nal" },
-        "correct": "Lord Ram ji"
+        "correct": "1"
     },
 
     {
         "ques": "By whom Veer Kumbhkaran was killed?",
         "sol": { "a": "Jamvanth ji", "b": "Lord Hanuman ji", "c": "Lord Lakshman", "d": "Lord Ram ji" },
-        "correct": "Lord Ram ji"
+        "correct": "4"
     },
 
     {
         "ques": "By whom Devantak was killed?",
         "sol": { "a": "Lord Hanuman ji", "b": "Maharaja Sugreev", "c": "Senapati Neel", "d": "Senapati Nal" },
-        "correct": "Lord Hanuman ji"
+        "correct": "1"
     },
 
     {
         "ques": "By whom Narantak was killed?",
         "sol": { "a": "Lord Hanuman ji", "b": "Maharaja Sugreev", "c": "Senapati Neel", "d": "Angad ji" },
-        "correct": "Angad ji"
+        "correct": "4"
     },
 
     {
         "ques": "By whom Trishura was killed??",
         "sol": { "a": "Angad ji", "b": "Maharaja Sugreev", "c": "Senapati Neel", "d": "Lord Hanuman ji" },
-        "correct": "Angad ji"
+        "correct": "1"
     },
 
     {
         "ques": "By whom Atikaya was killed?",
-        "sol": { "a": "Lord Ram ji", "b": "lord Laksmana", "c": "Hanuman Ji", "d": "Vibhishan ji" },
-        "correct": "lord Laksmana"
+        "sol": { "a": "Lord Ram ji", "b": "lord Lakshmana", "c": "Hanuman Ji", "d": "Vibhishan ji" },
+        "correct": "2"
     },
 
     {
         "ques": "To whom was shakti hit when Indrajeet Attacked?",
-        "sol": { "a": "Lord Ram ji", "b": "lord Laksmana", "c": "Hanuman Ji", "d": "Maharaja Sugreev" },
-        "correct": "Lord Lakshman ji"
+        "sol": { "a": "Lord Ram ji", "b": "lord Lakshmana", "c": "Hanuman Ji", "d": "Maharaja Sugreev" },
+        "correct": "2"
     },
 
     {
         "ques": "To save Lakshmana ji life Mrid Sanjeevani was brought there by?",
         "sol": { "a": "Angad ji", "b": "Maharaja Sugreev", "c": "Senapati Neel", "d": "Lord Hanuman ji" },
-        "correct": "Hanuman ji"
+        "correct": "4"
     },
 
     {
         "ques": "Who tried to interruputed Hanuman ji while going to take mrid Sanjeevani?",
         "sol": { "a": "Kaalnemi", "b": "Subahu", "c": "Veeru Paksh", "d": "Mareech" },
-        "correct": "Kaalnemi"
+        "correct": "1"
     },
 
     {
         "ques": "Who killed Lankapati Ravan",
-        "sol": { "a": "Lord Hanuman ji", "b": "Vibhishan ji", "c": "Lord Lakshman ji", "d": "Hidimba" },
-        "correct": "Lord Ram ji"
+        "sol": { "a": "Lord Hanuman ji", "b": "Vibhishan ji", "c": "Lord Lakshman ji", "d": "Lord Ram ji" },
+        "correct": "4"
     },
 
     {
         "ques": "After Dashanan who was the king of Lanka?",
         "sol": { "a": "Vibhishan ji", "b": "Maharaja Sugreev", "c": "Lord Lakshman ji", "d": "Lord Ram ji" },
-        "correct": "Vibhishan ji"
+        "correct": "1"
     }
 ]
 
-console.log(quan.length)
+// console.log(quan.length)
 
 let index = randomNumber(0, 3)
 let q1 = document.getElementById("question1")
@@ -282,7 +278,7 @@ s1c.innerHTML = s1c.innerHTML + quan[index].sol.c
 let s1d = document.getElementById("sol1optiond")
 s1d.innerHTML = s1d.innerHTML + quan[index].sol.d
 
-let index1 = randomNumber(4,8)
+let index1 = randomNumber(4, 8)
 let q2 = document.getElementById("question2")
 q2.innerHTML = q2.innerHTML + quan[index1].ques
 let s2a = document.getElementById("sol2optiona")
@@ -294,7 +290,7 @@ s2c.innerHTML = s2c.innerHTML + quan[index1].sol.c
 let s2d = document.getElementById("sol2optiond")
 s2d.innerHTML = s2d.innerHTML + quan[index1].sol.d
 
-let index3 = randomNumber(9,13)
+let index3 = randomNumber(9, 13)
 let q3 = document.getElementById("question3")
 q3.innerHTML = q3.innerHTML + quan[index3].ques
 let s3a = document.getElementById("sol3optiona")
@@ -306,7 +302,7 @@ s3c.innerHTML = s3c.innerHTML + quan[index3].sol.c
 let s3d = document.getElementById("sol3optiond")
 s3d.innerHTML = s3d.innerHTML + quan[index3].sol.d
 
-let index4 = randomNumber(14,18)
+let index4 = randomNumber(14, 18)
 let q4 = document.getElementById("question4")
 q4.innerHTML = q4.innerHTML + quan[index4].ques
 let s4a = document.getElementById("sol4optiona")
@@ -318,7 +314,7 @@ s4c.innerHTML = s4c.innerHTML + quan[index4].sol.c
 let s4d = document.getElementById("sol4optiond")
 s4d.innerHTML = s4d.innerHTML + quan[index4].sol.d
 
-let index5 = randomNumber(19,23)
+let index5 = randomNumber(19, 23)
 let q5 = document.getElementById("question5")
 q5.innerHTML = q5.innerHTML + quan[index5].ques
 let s5a = document.getElementById("sol5optiona")
@@ -330,7 +326,7 @@ s5c.innerHTML = s5c.innerHTML + quan[index5].sol.c
 let s5d = document.getElementById("sol5optiond")
 s5d.innerHTML = s5d.innerHTML + quan[index5].sol.d
 
-let index6 = randomNumber(24,28)
+let index6 = randomNumber(24, 28)
 let q6 = document.getElementById("question6")
 q6.innerHTML = q6.innerHTML + quan[index6].ques
 let s6a = document.getElementById("sol6optiona")
@@ -342,7 +338,7 @@ s6c.innerHTML = s6c.innerHTML + quan[index6].sol.c
 let s6d = document.getElementById("sol6optiond")
 s6d.innerHTML = s6d.innerHTML + quan[index6].sol.d
 
-let index7 = randomNumber(29,33)
+let index7 = randomNumber(29, 33)
 let q7 = document.getElementById("question7")
 q7.innerHTML = q7.innerHTML + quan[index7].ques
 let s7a = document.getElementById("sol7optiona")
@@ -354,7 +350,7 @@ s7c.innerHTML = s7c.innerHTML + quan[index7].sol.c
 let s7d = document.getElementById("sol7optiond")
 s7d.innerHTML = s7d.innerHTML + quan[index7].sol.d
 
-let index8 = randomNumber(34,38)
+let index8 = randomNumber(34, 38)
 let q8 = document.getElementById("question8")
 q8.innerHTML = q8.innerHTML + quan[index8].ques
 let s8a = document.getElementById("sol8optiona")
@@ -366,7 +362,7 @@ s8c.innerHTML = s8c.innerHTML + quan[index8].sol.c
 let s8d = document.getElementById("sol8optiond")
 s8d.innerHTML = s8d.innerHTML + quan[index8].sol.d
 
-let index9 = randomNumber(39,43)
+let index9 = randomNumber(39, 43)
 let q9 = document.getElementById("question9")
 q9.innerHTML = q9.innerHTML + quan[index9].ques
 let s9a = document.getElementById("sol9optiona")
@@ -378,7 +374,7 @@ s9c.innerHTML = s9c.innerHTML + quan[index9].sol.c
 let s9d = document.getElementById("sol9optiond")
 s9d.innerHTML = s9d.innerHTML + quan[index9].sol.d
 
-let index10 = randomNumber(44,48)
+let index10 = randomNumber(44, 48)
 let q10 = document.getElementById("question10")
 q10.innerHTML = q10.innerHTML + quan[index10].ques
 let s10a = document.getElementById("sol10optiona")
@@ -396,7 +392,6 @@ function hidesol1() {
 
 function getsol1() {
     let ans11 = document.getElementById("ans1")
-    ans11.style.display="inline"
     ans11.innerHTML = quan[index].correct
     let showanswer1 = document.getElementById("showans1")
     if (showanswer1.style.display != "none") {
@@ -405,7 +400,6 @@ function getsol1() {
 }
 function getsol2() {
     let ans22 = document.getElementById("ans2")
-    ans22.style.display="inline"
     ans22.innerHTML = quan[index1].correct
     let showanswer2 = document.getElementById("showans2")
     if (showanswer2.style.display != "none") {
@@ -415,7 +409,6 @@ function getsol2() {
 
 function getsol3() {
     let ans33 = document.getElementById("ans3")
-    ans33.style.display="inline"
     ans33.innerHTML = quan[index3].correct
     let showanswer3 = document.getElementById("showans3")
     if (showanswer3.style.display != "none") {
@@ -425,7 +418,6 @@ function getsol3() {
 
 function getsol4() {
     let ans44 = document.getElementById("ans4")
-    ans44.style.display="inline"
     ans44.innerHTML = quan[index4].correct
     let showanswer4 = document.getElementById("showans4")
     if (showanswer4.style.display != "none") {
@@ -435,7 +427,6 @@ function getsol4() {
 
 function getsol5() {
     let ans55 = document.getElementById("ans5")
-    ans55.style.display="inline"
     ans55.innerHTML = quan[index5].correct
     let showanswer5 = document.getElementById("showans5")
     if (showanswer5.style.display != "none") {
@@ -445,7 +436,6 @@ function getsol5() {
 
 function getsol6() {
     let ans66 = document.getElementById("ans6")
-    ans66.style.display="inline"
     ans66.innerHTML = quan[index6].correct
     let showanswer6 = document.getElementById("showans6")
     if (showanswer6.style.display != "none") {
@@ -455,7 +445,6 @@ function getsol6() {
 
 function getsol7() {
     let ans77 = document.getElementById("ans7")
-    ans77.style.display="inline"
     ans77.innerHTML = quan[index7].correct
     let showanswer7 = document.getElementById("showans7")
     if (showanswer7.style.display != "none") {
@@ -464,9 +453,8 @@ function getsol7() {
 }
 
 function getsol8() {
-    let ans88 = document.getElementById("ans8")
-    ans88.style.display="inline"
-    ans88.innerHTML = quan[index8].correct
+    let ans8 = document.getElementById("ans8")
+    ans8.innerHTML = quan[index8].correct
     let showanswer8 = document.getElementById("showans8")
     if (showanswer8.style.display != "none") {
         showanswer8.style.display = "none";
@@ -475,7 +463,6 @@ function getsol8() {
 
 function getsol9() {
     let ans99 = document.getElementById("ans9")
-    ans99.style.display="inline"
     ans99.innerHTML = quan[index9].correct
     let showanswer9 = document.getElementById("showans9")
     if (showanswer9.style.display != "none") {
@@ -485,7 +472,6 @@ function getsol9() {
 
 function getsol10() {
     let ans1010 = document.getElementById("ans10")
-    ans1010.style.display="inline"
     ans1010.innerHTML = quan[index10].correct
     let showanswer10 = document.getElementById("showans10")
     if (showanswer10.style.display != "none") {
@@ -493,3 +479,154 @@ function getsol10() {
     }
 }
 
+
+
+
+
+// function displayRadioValue() {
+// }
+
+checkans = () => {
+    var total=0
+    let ans1 = quan[index].correct
+    var ele1 = document.getElementsByName('age1');
+    for (i = 0; i < ele1.length; i++) {
+        if (ele1[i].checked)
+            var selected1 = ele1[i].value
+    }
+    console.log(selected1)
+    if (ans1 == selected1){
+        console.log("correct")
+        total=total+1
+    }
+    else
+    console.log("Wrong")
+
+    let ans2 = quan[index1].correct
+    var ele2 = document.getElementsByName('age2');
+    for (i = 0; i < ele2.length; i++) {
+        if (ele2[i].checked)
+            var selected2 = ele2[i].value
+    }
+    console.log(selected2)
+    if (ans2 == selected2) {
+        console.log("correct")
+        total=total+1
+    }
+    else
+    console.log("Wrong")
+
+    let ans3 = quan[index3].correct
+    var ele3 = document.getElementsByName('age3');
+    for (i = 0; i < ele3.length; i++) {
+        if (ele3[i].checked)
+            var selected3 = ele3[i].value
+    }
+    console.log(selected3)
+    if (ans3 == selected3) {
+        console.log("correct")
+        total=total+1
+    }
+    else
+    console.log("Wrong")
+
+    let ans4 = quan[index4].correct
+    var ele4 = document.getElementsByName('age4');
+    for (i = 0; i < ele4.length; i++) {
+        if (ele4[i].checked)
+            var selected4 = ele4[i].value
+    }
+    console.log(selected4)
+    if (ans4 == selected4) {
+        console.log("correct")
+        total=total+1
+    }
+    else
+    console.log("Wrong")
+
+    let ans5 = quan[index5].correct
+    var ele5 = document.getElementsByName('age5');
+    for (i = 0; i < ele5.length; i++) {
+        if (ele5[i].checked)
+            var selected5 = ele5[i].value
+    }
+    console.log(selected5)
+    if (ans5 == selected5) {
+        console.log("correct")
+        total=total+1
+    }
+    else
+    console.log("Wrong")
+
+    let ans6 = quan[index6].correct
+    var ele6 = document.getElementsByName('age6');
+    for (i = 0; i < ele6.length; i++) {
+        if (ele6[i].checked)
+            var selected6 = ele6[i].value
+    }
+    console.log(selected6)
+    if (ans6 == selected6) {
+        console.log("correct")
+        total=total+1
+    }
+    else
+    console.log("Wrong")
+
+    let ans7 = quan[index7].correct
+    var ele7 = document.getElementsByName('age7');
+    for (i = 0; i < ele7.length; i++) {
+        if (ele7[i].checked)
+            var selected7 = ele7[i].value
+    }
+    console.log(selected7)
+    if (ans7 == selected7) {
+        console.log("correct")
+        total=total+1
+    }
+    else
+    console.log("Wrong")
+
+    let ans8 = quan[index8].correct
+    var ele8 = document.getElementsByName('age8');
+    for (i = 0; i < ele8.length; i++) {
+        if (ele8[i].checked)
+            var selected8 = ele8[i].value
+    }
+    console.log(selected8)
+    if (ans8 == selected8) {
+        console.log("correct")
+        total=total+1
+    }
+    else
+    console.log("Wrong")
+
+    let ans9 = quan[index9].correct
+    var ele9 = document.getElementsByName('age9');
+    for (i = 0; i < ele9.length; i++) {
+        if (ele9[i].checked)
+            var selected9 = ele9[i].value
+    }
+    console.log(selected9)
+    if (ans9 == selected9) {
+        console.log("correct")
+        total=total+1
+    }
+    else
+    console.log("Wrong")
+
+    let ans10 = quan[index10].correct
+    var ele10 = document.getElementsByName('age10');
+    for (i = 0; i < ele10.length; i++) {
+        if (ele10[i].checked)
+            var selected10 = ele10[i].value
+    }
+    console.log(selected10)
+    if (ans10 == selected10) {
+        console.log("correct")
+        total=total+1
+    }
+    else
+    console.log("Wrong")
+
+    document.getElementById("correctanswers").innerHTML=document.getElementById("correctanswers").innerHTML+total;
+}
