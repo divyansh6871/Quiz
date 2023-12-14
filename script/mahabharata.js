@@ -7,47 +7,47 @@ let quan = [
     {
         "ques": "Events Related to Mahabharata happened in which Yuga?",
         "sol": { "a": "Sat Yuga", "b": "Treta Yuga", "c": "Dwapar Yuga", "d": "Kali Yuga" },
-        "correct": "Dwapar Yuga"
+        "correct": "3"
     },
     {
         "ques": "Who wrote Mahabharata?",
         "sol": { "a": "Shri Ganesh ji", "b": "Maharishi Ved Vyas ji", "c": "Maharishi Valmiki ji", "d": "Tulsi Das ji" },
-        "correct": "Shri Ganesh ji"
+        "correct": "1"
     },
     {
         "ques": "Who didctated epic Mahabharata to Ganesh ji?",
         "sol": { "a": "Matang Rishi ji", "b": "Maharishi Ved Vyas ji", "c": "Maharishi Valmiki ji", "d": "Lord Krishna" },
-        "correct": "Maharishi Ved Vyas ji"
+        "correct": "2"
     },
     {
         "ques": "Who was the wife of Maharaja Shantanu?",
         "sol": { "a": "Mandvi ji", "b": "Yagyasaini ji", "c": "Mandodri ji", "d": "Shakuntala ji" },
-        "correct": "Shakuntala ji"
+        "correct": "4"
     },
     {
         "ques": "How many son did Maharaja Bharat had?",
         "sol": { "a": "8", "b": "9", "c": "10", "d": "11" },
-        "correct": "9"
+        "correct": "2"
     },
     {
         "ques": "How many days did Mahabharat was fought?",
         "sol": { "a": "15", "b": "16", "c": "17", "d": "18" },
-        "correct": "18"
+        "correct": "4"
     },
     {
         "ques": "How many child did Mata Ganga left in the Ganga River and left them dying",
         "sol": { "a": "8", "b": "9", "c": "10", "d": "11" },
-        "correct": "8"
+        "correct": "1"
     },
     {
         "ques": "Who was second wife of Maharaj Bharat?",
         "sol": { "a": "Ganga Maiya", "b": "Mata Yagyasaini", "c": "Mata Satyavati", "d": "None" },
-        "correct": "Mata Satyavati"
+        "correct": "3"
     },
     {
         "ques": "From whom did Pitamah Bheeshma took his knowledge?",
         "sol": { "a": "Guru Brahspati", "b": "Guru Parshuram ji", "c": "Guru Shukracharya", "d": "All of these" },
-        "correct": "All of these"
+        "correct": "4"
     },
     //sgsdgdfsghdsfsdfhdsf
     // sdfghsdfgsdf
@@ -56,185 +56,185 @@ let quan = [
     {
         "ques": "To whom did Guru Dron Acharya was married?",
         "sol": { "a": "Krip", "b": "Angira", "c": "Kalpana", "d": "Myanka" },
-        "correct": "Krip"
+        "correct": "1"
     },
     {
         "ques": "What was the relation between Kul Guru Kripacharya and Gur Dron Acharya?",
         "sol": { "a": "Guru Dron was brother in law", "b": "Kul Guru was brother in law", "c": "brother", "d": "none of these" },
-        "correct": "Guru Dron was brother in law"
+        "correct": "1"
     },
     {
         "ques": "Who was Vichitraveer in relation to Pitahmah Bheeshma?",
         "sol": { "a": "Son", "b": "Uncle", "c": "Friend", "d": "Brother" },
-        "correct": "Brother "
+        "correct": "4 "
     },
     {
         "ques": "Who were the wife of Maharaja Vichitraveer?",
-        "sol": { "Amba": "12", "b": "Ambika", "c": "Ambalika", "d": "All of these" },
-        "correct": "14"
+        "sol": { "a": "Both", "b": "Ambika", "c": "Ambalika", "d": "All of these" },
+        "correct": "1"
     },
     {
         "ques": "Who became the reason for the death of Pitahmah Bheeshma?",
         "sol": { "Amba": "12", "b": "Ambika", "c": "Ambalika", "d": "All of these" },
-        "correct": "Amba"
+        "correct": "1"
     },
     {
         "ques": "By which name Bhagwan krishna was referred",
         "sol": { "a": "Vasudev", "b": "Yashoda-nandna", "c": "Devki-nandan", "d": "All of these" },
-        "correct": "All of these"
+        "correct": "4"
     },
     {
         "ques": "Where were Lord Krishna Borned",
         "sol": { "a": "Gokul", "b": "Dwarka", "c": "Mathura", "d": "Vrindavan" },
-        "correct": "Mathura"
+        "correct": "3"
     },
     {
         "ques": "While Vasudev ji crossed Yamuna who helped the cross the Yamuna river",
         "sol": { "a": "Bhagwan Shankar", "b": "Bhagwan Sheshnag", "c": "Bhagwan Brahma", "d": "all of these" },
-        "correct": "Bhagwan Sheshnag"
+        "correct": "2"
     },
     {
         "ques": "Who was the wife of Maharaj Dhritrashtra?",
         "sol": { "a": "Mata Gandhari", "b": "Mata Kunti", "c": "Mata Shakuntala", "d": "Mata Satyavati" },
-        "correct": "Mata Gandhari"
+        "correct": "1"
     },
     {
         "ques": "Who was the wife of Maharaj Pandu?",
         "sol": { "a": "Mata Madri", "b": "Mata Kunti", "c": "Both", "d": "None" },
-        "correct": "Both"
+        "correct": "3"
     },
     {
         "ques": "How many son did Maharaja Dhritrashtra had?",
         "sol": { "a": "104", "b": "100", "c": "102", "d": "101" },
-        "correct": "102"
+        "correct": "3"
     },
     {
         "ques": "How many son did Maharaja Pandu had?",
         "sol": { "a": "3", "b": "4", "c": "5", "d": "6" },
-        "correct": "5"
+        "correct": "3"
     },
     {
         "ques": "How many son did Mata Kunti had?",
         "sol": { "a": "3", "b": "4", "c": "5", "d": "6" },
-        "correct": "4"
+        "correct": "2"
     },
     {
         "ques": "WMata Shabri told Lord Ram to meet whom?",
         "sol": { "a": "3", "b": "4", "c": "1", "d": "2" },
-        "correct": "2 "
+        "correct": "4 "
     },
     {
         "ques": "Who was the elder in the given names?",
         "sol": { "a": "Bheem", "b": "Duryodhan", "c": "Yudhister", "d": "Arjun" },
-        "correct": "Yudhister"
+        "correct": "3"
     },
     {
         "ques": "Who was the elder in the given names?",
         "sol": { "a": "Bheem", "b": "Duryodhan", "c": "Dushasan", "d": "Arjun" },
-        "correct": "Bheem"
+        "correct": "1"
     },
     {
         "ques": "Who was the elder in the given names?",
         "sol": { "a": "Nakul", "b": "Duryodhan", "c": "Yudhister", "d": "Arjun" },
-        "correct": "Duryodhan"
+        "correct": "2"
     },
     {
         "ques": "From which Element did Mata Dropadi borned?",
         "sol": { "a": "Vayu", "b": "Jal", "c": "Agni", "d": "Yagya" },
-        "correct": "Yagya"
+        "correct": "4"
     },
     {
         "ques": "Yudhister ji was the son of which Dev?",
         "sol": { "a": "Dharma Dev", "b": "Vayu Dev", "c": "Indra Dev", "d": "Varun Dev" },
-        "correct": "Dharma Dev"
+        "correct": "1"
     },
     {
         "ques": "Bheem ji was the son of which Dev?",
         "sol": { "a": "Dharma Dev", "b": "Vayu Dev", "c": "Indra Dev", "d": "Varun Dev" },
-        "correct": "Vayu Dev"
+        "correct": "2"
     },
     {
         "ques": "Arjun ji was the son of which Dev?",
         "sol": { "a": "Dharma Dev", "b": "Vayu Dev", "c": "Indra Dev", "d": "Varun Dev" },
-        "correct": "Indra Dev"
+        "correct": "3"
     },
     {
         "ques": "For which astra and shastra Yudister ji was famous?",
         "sol": { "a": "Bhala", "b": "Gada", "c": "Dhanush-baan", "d": "none" },
-        "correct": "Bhala"
+        "correct": "1"
     },
     {
         "ques": "For which astra and shastra Bheem ji was famous?",
         "sol": { "a": "Bhala", "b": "Gada", "c": "Dhanush-baan", "d": "none" },
-        "correct": "Gada"
+        "correct": "2"
     },
     {
         "ques": "For which astra and shastra Arjun ji was famous?",
         "sol": { "a": "Bhala", "b": "Gada", "c": "Dhanush-baan", "d": "none" },
-        "correct": "Dhanush-baan"
+        "correct": "3"
     },
     {
         "ques": "waht was the relation of Duryodhan and Karn?",
         "sol": { "a": "Shishya", "b": "Guru", "c": "Brother", "d": "Friend" },
-        "correct": "Friend"
+        "correct": "4"
     },
     {
         "ques": "What was common in Angraj Karna and Ganga putra Bheeshma?",
         "sol": { "a": "Same Guru", "b": "Same Kul", "c": "Same age", "d": "Same skills"},
-        "correct": "Same Guru"
+        "correct": "1"
     },
     {
         "ques": "Ghatothkach was son of whom?",
         "sol": { "a": "Bheem", "b": "Duryodhan", "c": "Yudhister", "d": "Arjun" },
-        "correct": "Bheem"
+        "correct": "1"
     },
 
     {
         "ques": "Abhimanyu was son of whom?",
         "sol": { "a": "Bheem", "b": "Duryodhan", "c": "Yudhister", "d": "Arjun" },
-        "correct": "Arjun"
+        "correct": "4"
     },
 
     {
         "ques": "Where did Pandavas hide themselves during their Agyat varsh?",
         "sol": { "a": "Virat", "b": "Ang", "c": "Dwarka", "d": "Indraprastha" },
-        "correct": "Virat"
+        "correct": "1"
     },
 
     {
         "ques": "By whom Devantak was killed?",
         "sol": { "a": "Lord Hanuman ji", "b": "Maharaja Sugreev", "c": "Senapati Neel", "d": "Senapati Nal" },
-        "correct": "Lord Hanuman ji"
+        "correct": "1"
     },
 
     {
         "ques": "Who killed Guru Dron Acharya",
         "sol": { "a": "Maharaja Dropad", "b": "Bheem", "c": "Drishtadyumna", "d": "Arjun" },
-        "correct": "Drishtadyumna"
+        "correct": "3"
     },
 
     {
         "ques": "With whom Was Krishna playing the role of sarthi?",
         "sol": { "a": "Arjun", "b": "Bheem", "c": "Yudhiter", "d": "None" },
-        "correct": "Arjun"
+        "correct": "1"
     },
 
     {
         "ques": "How many horses were there in the chariot of Arjun and Bhagwan Krishna?",
         "sol": { "a": "2", "b": "1", "c": "4", "d": "None of these" },
-        "correct": "4"
+        "correct": "3"
     },
 
     {
         "ques": "After seeing whom Pitahmaah Bheesham did not attack?",
         "sol": { "a": "Arjun", "b": "lord Laksmana", "c": "Yudhister", "d": "Shikhandi" },
-        "correct": "Shikhandi"
+        "correct": "4"
     },
 
     {
         "ques": "Who are the chiranjeevi since the Dwapar yuga?",
         "sol": { "a": "Ved Vyas ji", "b": "Ashwatthama", "c": "both", "d": "None" },
-        "correct": "Both"
+        "correct": "3"
     }
 ]
 
@@ -366,7 +366,6 @@ function hidesol1() {
 
 function getsol1() {
     let ans11 = document.getElementById("ans1")
-    ans11.style.display="inline"
     ans11.innerHTML = quan[index].correct
     let showanswer1 = document.getElementById("showans1")
     if (showanswer1.style.display != "none") {
@@ -375,7 +374,6 @@ function getsol1() {
 }
 function getsol2() {
     let ans22 = document.getElementById("ans2")
-    ans22.style.display="inline"
     ans22.innerHTML = quan[index1].correct
     let showanswer2 = document.getElementById("showans2")
     if (showanswer2.style.display != "none") {
@@ -385,7 +383,6 @@ function getsol2() {
 
 function getsol3() {
     let ans33 = document.getElementById("ans3")
-    ans33.style.display="inline"
     ans33.innerHTML = quan[index3].correct
     let showanswer3 = document.getElementById("showans3")
     if (showanswer3.style.display != "none") {
@@ -395,7 +392,6 @@ function getsol3() {
 
 function getsol4() {
     let ans44 = document.getElementById("ans4")
-    ans44.style.display="inline"
     ans44.innerHTML = quan[index4].correct
     let showanswer4 = document.getElementById("showans4")
     if (showanswer4.style.display != "none") {
@@ -405,7 +401,6 @@ function getsol4() {
 
 function getsol5() {
     let ans55 = document.getElementById("ans5")
-    ans55.style.display="inline"
     ans55.innerHTML = quan[index5].correct
     let showanswer5 = document.getElementById("showans5")
     if (showanswer5.style.display != "none") {
@@ -415,7 +410,6 @@ function getsol5() {
 
 function getsol6() {
     let ans66 = document.getElementById("ans6")
-    ans66.style.display="inline"
     ans66.innerHTML = quan[index6].correct
     let showanswer6 = document.getElementById("showans6")
     if (showanswer6.style.display != "none") {
@@ -425,7 +419,6 @@ function getsol6() {
 
 function getsol7() {
     let ans77 = document.getElementById("ans7")
-    ans77.style.display="inline"
     ans77.innerHTML = quan[index7].correct
     let showanswer7 = document.getElementById("showans7")
     if (showanswer7.style.display != "none") {
@@ -434,9 +427,8 @@ function getsol7() {
 }
 
 function getsol8() {
-    let ans88 = document.getElementById("ans8")
-    ans88.style.display="inline"
-    ans88.innerHTML = quan[index8].correct
+    let ans8 = document.getElementById("ans8")
+    ans8.innerHTML = quan[index8].correct
     let showanswer8 = document.getElementById("showans8")
     if (showanswer8.style.display != "none") {
         showanswer8.style.display = "none";
@@ -445,7 +437,6 @@ function getsol8() {
 
 function getsol9() {
     let ans99 = document.getElementById("ans9")
-    ans99.style.display="inline"
     ans99.innerHTML = quan[index9].correct
     let showanswer9 = document.getElementById("showans9")
     if (showanswer9.style.display != "none") {
@@ -455,7 +446,6 @@ function getsol9() {
 
 function getsol10() {
     let ans1010 = document.getElementById("ans10")
-    ans1010.style.display="inline"
     ans1010.innerHTML = quan[index10].correct
     let showanswer10 = document.getElementById("showans10")
     if (showanswer10.style.display != "none") {
@@ -463,3 +453,152 @@ function getsol10() {
     }
 }
 
+
+
+
+
+
+checkans = () => {
+    var total=0
+    let ans1 = quan[index].correct
+    var ele1 = document.getElementsByName('age1');
+    for (i = 0; i < ele1.length; i++) {
+        if (ele1[i].checked)
+            var selected1 = ele1[i].value
+    }
+    console.log(selected1)
+    if (ans1 == selected1){
+        console.log("correct")
+        total=total+1
+    }
+    else
+    console.log("Wrong")
+
+    let ans2 = quan[index1].correct
+    var ele2 = document.getElementsByName('age2');
+    for (i = 0; i < ele2.length; i++) {
+        if (ele2[i].checked)
+            var selected2 = ele2[i].value
+    }
+    console.log(selected2)
+    if (ans2 == selected2) {
+        console.log("correct")
+        total=total+1
+    }
+    else
+    console.log("Wrong")
+
+    let ans3 = quan[index3].correct
+    var ele3 = document.getElementsByName('age3');
+    for (i = 0; i < ele3.length; i++) {
+        if (ele3[i].checked)
+            var selected3 = ele3[i].value
+    }
+    console.log(selected3)
+    if (ans3 == selected3) {
+        console.log("correct")
+        total=total+1
+    }
+    else
+    console.log("Wrong")
+
+    let ans4 = quan[index4].correct
+    var ele4 = document.getElementsByName('age4');
+    for (i = 0; i < ele4.length; i++) {
+        if (ele4[i].checked)
+            var selected4 = ele4[i].value
+    }
+    console.log(selected4)
+    if (ans4 == selected4) {
+        console.log("correct")
+        total=total+1
+    }
+    else
+    console.log("Wrong")
+
+    let ans5 = quan[index5].correct
+    var ele5 = document.getElementsByName('age5');
+    for (i = 0; i < ele5.length; i++) {
+        if (ele5[i].checked)
+            var selected5 = ele5[i].value
+    }
+    console.log(selected5)
+    if (ans5 == selected5) {
+        console.log("correct")
+        total=total+1
+    }
+    else
+    console.log("Wrong")
+
+    let ans6 = quan[index6].correct
+    var ele6 = document.getElementsByName('age6');
+    for (i = 0; i < ele6.length; i++) {
+        if (ele6[i].checked)
+            var selected6 = ele6[i].value
+    }
+    console.log(selected6)
+    if (ans6 == selected6) {
+        console.log("correct")
+        total=total+1
+    }
+    else
+    console.log("Wrong")
+
+    let ans7 = quan[index7].correct
+    var ele7 = document.getElementsByName('age7');
+    for (i = 0; i < ele7.length; i++) {
+        if (ele7[i].checked)
+            var selected7 = ele7[i].value
+    }
+    console.log(selected7)
+    if (ans7 == selected7) {
+        console.log("correct")
+        total=total+1
+    }
+    else
+    console.log("Wrong")
+
+    let ans8 = quan[index8].correct
+    var ele8 = document.getElementsByName('age8');
+    for (i = 0; i < ele8.length; i++) {
+        if (ele8[i].checked)
+            var selected8 = ele8[i].value
+    }
+    console.log(selected8)
+    if (ans8 == selected8) {
+        console.log("correct")
+        total=total+1
+    }
+    else
+    console.log("Wrong")
+
+    let ans9 = quan[index9].correct
+    var ele9 = document.getElementsByName('age9');
+    for (i = 0; i < ele9.length; i++) {
+        if (ele9[i].checked)
+            var selected9 = ele9[i].value
+    }
+    console.log(selected9)
+    if (ans9 == selected9) {
+        console.log("correct")
+        total=total+1
+    }
+    else
+    console.log("Wrong")
+
+    let ans10 = quan[index10].correct
+    var ele10 = document.getElementsByName('age10');
+    for (i = 0; i < ele10.length; i++) {
+        if (ele10[i].checked)
+            var selected10 = ele10[i].value
+    }
+    console.log(selected10)
+    if (ans10 == selected10) {
+        console.log("correct")
+        total=total+1
+    }
+    else
+    console.log("Wrong")
+
+    document.getElementById("correctanswers").innerHTML=document.getElementById("correctanswers").innerHTML+total;
+}
