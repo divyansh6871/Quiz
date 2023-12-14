@@ -7,52 +7,52 @@ let quan = [
     {
         "ques": "What is the capital of India?",
         "sol": { "a": "Delhi", "b": "Mumbai", "c": "Chennai", "d": "Kolkata" },
-        "correct": "Delhi"
+        "correct": "1"
     },
     {
         "ques": "What is the Financial capital of India?",
         "sol": { "a": "Delhi", "b": "Mumbai", "c": "Chennai", "d": "Kolkata" },
-        "correct": "Mumbai"
+        "correct": "2"
     },
     {
         "ques": "What is the IT capital of India?",
         "sol": { "a": "Delhi", "b": "Mumbai", "c": "Chennai", "d": "Banglore" },
-        "correct": "Banglore"
+        "correct": "4"
     },
     {
         "ques": "How many states are there in India?",
         "sol": { "a": "29", "b": "27", "c": "28", "d": "26" },
-        "correct": "28"
+        "correct": "3"
     },
     {
         "ques": "How many union terretories are there in India?",
         "sol": { "a": "7", "b": "9", "c": "10", "d": "8" },
-        "correct": "8"
+        "correct": "4"
     },
     {
         "ques": "Who was the first Prime minister of India?",
         "sol": { "a": "Indira Gandhi", "b": "Jawaharlal Nehru", "c": "Rajiv Gandhi", "d": "Rajendra Prasad" },
-        "correct": "Jawaharlal Nehru"
+        "correct": "2"
     },
     {
         "ques": "Who is the Father of our Nation?",
         "sol": { "a": "Jawaharlal Nehru", "b": "B.R. Ambedkar", "c": "Mahatma Gandhi", "d": "Sonia Gandhi" },
-        "correct": "Mahatma Gandhi"
+        "correct": "3"
     },
     {
         "ques": "Who was the first President of India?",
         "sol": { "a": "Rajendra Parsad", "b": "Vallabhai Patel", "c": "B.R. Ambedkar", "d": "Subhash Chandra Bose" },
-        "correct": "Jawaharlal Nehru"
+        "correct": "1"
     },
     {
         "ques": "Which countries do not share border with India?",
         "sol": { "a": "Myanmar", "b": "Afghanistan", "c": "Bhutan", "d": "Tajakistan" },
-        "correct": "Tajakistan"
+        "correct": "4"
     },
     {
         "ques": "Which countries do not share border with India?",
         "sol": { "a": "Myanmar", "b": "Afghanistan", "c": "Bhutan", "d": "Tajakistan" },
-        "correct": "Tajakistan"
+        "correct": "4"
     },
     //sgsdgdfsghdsfsdfhdsf
     // sdfghsdfgsdf
@@ -61,212 +61,212 @@ let quan = [
     {
         "ques": "Which city is called Manchester of India?",
         "sol": { "a": "Ahmedabad", "b": "Chennai", "c": "Pune", "d": "Bengaluru" },
-        "correct": "Ahmedabad "
+        "correct": "1 "
     },
     {
         "ques": "Which city is called Khwaja ki Nagri of India?",
         "sol": { "a": "Bengaluru", "b": "Ajmer", "c": "Ujjain", "d": "Rishikesh" },
-        "correct": "Ajmer"
+        "correct": "2"
     },
     {
         "ques": "Which city is called Garden City of India?",
         "sol": { "a": "Banaras", "b": "Bengaluru", "c": "Bikaner", "d": "Surat" },
-        "correct": "Bengaluru "
+        "correct": "2 "
     },
     {
         "ques": "Which city is called Gate Way of South India?",
         "sol": { "a": "Ahmedabad", "b": "Kolkata", "c": "Mysore", "d": "Chennai" },
-        "correct": "Chennai"
+        "correct": "4"
     },
     {
         "ques": "Which city is called  Electronic Manufacturing Hub in India?",
         "sol": { "a": "Bengaluru", "b": "Chandigarh", "c": "Chennai", "d": "Agra" },
-        "correct": "Chennai "
+        "correct": "3 "
     },
     {
         "ques": "Which city is called Pump City of India?",
         "sol": { "a": "Coimbatore", "b": "Pune", "c": "Ahmedabad", "d": "Mathura" },
-        "correct": "Coimbatore"
+        "correct": "1"
     },
     {
         "ques": "Which city is called Queen of the Hills in India?",
         "sol": { "a": "Surat", "b": "Chennai", "c": "Rishikesh", "d": "Darjeeling" },
-        "correct": "Darjeeling"
+        "correct": "4"
     },
     {
         "ques": "Which city is called Coal Capital of India?",
         "sol": { "a": "Kolkata", "b": "Dhanbad", "c": "Noida", "d": "Bengaluru" },
-        "correct": "Dhanbad "
+        "correct": "2 "
     },
     {
         "ques": "Which city is called City of Pearls in India?",
         "sol": { "a": "Hyderabad", "b": "Bengaluru", "c": "Bhopal", "d": "Surat" },
-        "correct": "Hyderabad  "
+        "correct": "1  "
     },
     {
         "ques": "Which city is called Pink City of India?",
         "sol": { "a": "Jaipur", "b": "Ahmedabad", "c": "Ranchi", "d": "Pune" },
-        "correct": "Jaipur  "
+        "correct": "1  "
     },
     {
         "ques": "Which city is called Steel City of India?",
         "sol": { "a": "Rishikesh", "b": "Surat", "c": "Jamshedpur", "d": "Dispur" },
-        "correct": "Jamshedpur "
+        "correct": "3 "
     },
     {
         "ques": "Which city is called Sun City of India?",
         "sol": { "a": "Chennai", "b": "Agra", "c": "Mumbai", "d": "Jodhpur" },
-        "correct": "Jodhpur "
+        "correct": "4 "
     },
     {
         "ques": "Which city is called Leather City of India?",
         "sol": { "a": "Moradabad", "b": "Kanpur", "c": "Bengaluru", "d": "Pune" },
-        "correct": "Kanpur "
+        "correct": "2 "
     },
     {
         "ques": "Which city is called Rajwaro ka Shahar?",
         "sol": { "a": "Lucknow", "b": "Rishikesh", "c": "Surat", "d": "Jaipur" },
-        "correct": "Jaipur"
+        "correct": "4"
     },
     {
         "ques": "Which city is called City of Nawabs?",
         "sol": { "a": "Ahmedabad", "b": "Lucknow", "c": "Kolkata", "d": "Deoband" },
-        "correct": "Lucknow"
+        "correct": "2"
     },
     {
         "ques": "Which city is called City of Seven Islands?",
         "sol": { "a": "Mumbai", "b": "Kolkata", "c": "Chennai", "d": "Thiruvananthpuram" },
-        "correct": "Mumbai"
+        "correct": "1"
     },
     {
         "ques": "Which city is called Queen of the Mountains?",
         "sol": { "a": "Nainital", "b": "Dehradun", "c": "Mussoorie", "d": "Tanakpur" },
-        "correct": "Mussoorie"
+        "correct": "3"
     },
     {
         "ques": "Which city is called Gateway of India?",
         "sol": { "a": "Kolkata", "b": "Panaji", "c": "Chennai", "d": "Mumbai" },
-        "correct": "Mumbai"
+        "correct": "4"
     },
     {
         "ques": "Which city is called City of Weavers?",
         "sol": { "a": "Panipat", "b": "Sehore", "c": "Bhopal", "d": "Kurukshetra" },
-        "correct": "Panipat"
+        "correct": "1"
     },
     {
         "ques": "Which city is called Cultural Capital of India?",
         "sol": { "a": "Pune", "b": "Indore", "c": "Kolkata", "d": "Vishakhapatnam" },
-        "correct": "Kolkata"
+        "correct": "3"
     },
     {
         "ques": "Which city is called Queen of Deccan?",
         "sol": { "a": "Patna", "b": "Pune", "c": "Surat", "d": "Bhopal" },
-        "correct": "Pune"
+        "correct": "2"
     },
     {
         "ques": "Which city is called Yoga Capital of the World?",
         "sol": { "a": "Rishikesh", "b": "Amritsar", "c": "Bengaluru", "d": "Ahmedabad" },
-        "correct": "Rishikesh"
+        "correct": "1"
     },
     {
         "ques": "Which city is called City of Joy?",
         "sol": { "a": "Jallandhar", "b": "Surat", "c": "Kanpur", "d": "Kolkata" },
-        "correct": "Kolkata"
+        "correct": "4"
     },
     {
         "ques": "Which city is called Adventure Capital of India?",
         "sol": { "a": "Varanasi", "b": "Agra", "c": "Rishikesh", "d": "Ludhiana" },
-        "correct": "Rishikesh"
+        "correct": "3"
     },
 
     {
         "ques": "Which city is called City of Diamonds?",
         "sol": { "a": "Pune", "b": "Surat", "c": "Ayodhya", "d": "Chennai" },
-        "correct": "Surat"
+        "correct": "2"
     },
 
     {
         "ques": "Longest river in India?",
         "sol": { "a": "Ganga", "b": "Godavari", "c": "Brahmputra", "d": "Narmada" },
-        "correct": "Ganga"
+        "correct": "1"
     },
 
     {
         "ques": "Which is the highest mountain peak in India?",
         "sol": { "a": "8632", "b": "8617", "c": "8611", "d": "8586" },
-        "correct": "8611"
+        "correct": "3"
     },
 
     {
         "ques": "city Udaipur was named after whcih Ruler?",
         "sol": { "a": "Maharana Pratap Singh", "b": "Rana Udai singh", "c": "Ratan Sngh", "d": "Vikram Singh" },
-        "correct": "Rana Udai Singh"
+        "correct": "2"
     },
 
     {
         "ques": "Who was the first wife of Maharana Pratap Singh?",
         "sol": { "a": "Rani Phool Bai Rathore ", "b": "Rani Shahmati Bai Hada", "c": "Rani Champa Bai Jhati ", "d": "Rani Ajabdeh Punwar" },
-        "correct": "Rani Ajabdeh Punwar"
+        "correct": "4"
     },
 
     {
         "ques": "Which city is called City of Diamonds?",
         "sol": { "a": "1759", "b": "1757", "c": "1752", "d": "1753" },
-        "correct": "1757"
+        "correct": "2"
     },
 
     {
         "ques": "The moment Pandavs left Hasthinapur they went to?",
         "sol": { "a": "Kashi", "b": "Dwarks", "c": "Indraprastha", "d": "Kurukshetra" },
-        "correct": "1576"
+        "correct": "3"
     },
 
     {
         "ques": "Whom was not able to see Virat swaroop of Lord Krishna?",
         "sol": { "a": "Adhiratha", "b": "Arjun", "c": "Sanjay", "d": "None of these" },
-        "correct": "Adhiratha"
+        "correct": "1"
     },
 
     {
         "ques": "Lord Ram was borned in which dynasty?",
         "sol": { "a": "Varun", "b": "Moon", "c": "Sun", "d": "None of these" },
-        "correct": "Sun"
+        "correct": "3"
     },
 
     {
         "ques": "In the epic Ramayana, which bird tried to prevent Ravana from carrying Sita away?",
         "sol": { "a": "Jatayu", "b": "Garuda", "c": "Kagbhusandi", "d": "Bhulinga" },
-        "correct": "Jatayu"
+        "correct": "1"
     },
 
     {
         "ques": "Which city is called City of Diamonds?",
         "sol": { "a": "Ghatotkacha", "b": "Subahu", "c": "Veeru Paksh", "d": "Mareech" },
-        "correct": "Mareech"
+        "correct": "4"
     },
 
     {
         "ques": "What was the name of first wife of Bheem in Mahaharat?",
         "sol": { "a": "Anihnya", "b": "Lankni", "c": "Sufnakha", "d": "Hidimba" },
-        "correct": "Hidimba"
+        "correct": "4"
     },
 
     {
         "ques": "Fourth avtar of Lord Vishnu?",
         "sol": { "a": "Kurma", "b": "Varha", "c": "Narsimha", "d": "Vamana" },
-        "correct": "Narsimha"
+        "correct": "3"
     },
 
     {
         "ques": "Third avtar of Lord Vishnu?",
         "sol": { "a": "Kurma", "b": "Varha", "c": "Narsimha", "d": "Vamana" },
-        "correct": "Varha"
+        "correct": "2"
     },
 
     {
         "ques": "Lord Narsimha came to kill whom?",
         "sol": { "a": "Hiranyakashyap", "b": "Hiranyaksh", "c": "Karta Virya Arjun", "d": "Bali" },
-        "correct": "Hiranyakahshapa"
+        "correct": "1"
     }
 ]
 
@@ -398,7 +398,6 @@ function hidesol1() {
 
 function getsol1() {
     let ans11 = document.getElementById("ans1")
-    ans11.style.display="inline"
     ans11.innerHTML = quan[index].correct
     let showanswer1 = document.getElementById("showans1")
     if (showanswer1.style.display != "none") {
@@ -407,7 +406,6 @@ function getsol1() {
 }
 function getsol2() {
     let ans22 = document.getElementById("ans2")
-    ans22.style.display="inline"
     ans22.innerHTML = quan[index1].correct
     let showanswer2 = document.getElementById("showans2")
     if (showanswer2.style.display != "none") {
@@ -417,7 +415,6 @@ function getsol2() {
 
 function getsol3() {
     let ans33 = document.getElementById("ans3")
-    ans33.style.display="inline"
     ans33.innerHTML = quan[index3].correct
     let showanswer3 = document.getElementById("showans3")
     if (showanswer3.style.display != "none") {
@@ -427,7 +424,6 @@ function getsol3() {
 
 function getsol4() {
     let ans44 = document.getElementById("ans4")
-    ans44.style.display="inline"
     ans44.innerHTML = quan[index4].correct
     let showanswer4 = document.getElementById("showans4")
     if (showanswer4.style.display != "none") {
@@ -437,7 +433,6 @@ function getsol4() {
 
 function getsol5() {
     let ans55 = document.getElementById("ans5")
-    ans55.style.display="inline"
     ans55.innerHTML = quan[index5].correct
     let showanswer5 = document.getElementById("showans5")
     if (showanswer5.style.display != "none") {
@@ -447,7 +442,6 @@ function getsol5() {
 
 function getsol6() {
     let ans66 = document.getElementById("ans6")
-    ans66.style.display="inline"
     ans66.innerHTML = quan[index6].correct
     let showanswer6 = document.getElementById("showans6")
     if (showanswer6.style.display != "none") {
@@ -457,7 +451,6 @@ function getsol6() {
 
 function getsol7() {
     let ans77 = document.getElementById("ans7")
-    ans77.style.display="inline"
     ans77.innerHTML = quan[index7].correct
     let showanswer7 = document.getElementById("showans7")
     if (showanswer7.style.display != "none") {
@@ -466,9 +459,8 @@ function getsol7() {
 }
 
 function getsol8() {
-    let ans88 = document.getElementById("ans8")
-    ans88.style.display="inline"
-    ans88.innerHTML = quan[index8].correct
+    let ans8 = document.getElementById("ans8")
+    ans8.innerHTML = quan[index8].correct
     let showanswer8 = document.getElementById("showans8")
     if (showanswer8.style.display != "none") {
         showanswer8.style.display = "none";
@@ -477,7 +469,6 @@ function getsol8() {
 
 function getsol9() {
     let ans99 = document.getElementById("ans9")
-    ans99.style.display="inline"
     ans99.innerHTML = quan[index9].correct
     let showanswer9 = document.getElementById("showans9")
     if (showanswer9.style.display != "none") {
@@ -487,7 +478,6 @@ function getsol9() {
 
 function getsol10() {
     let ans1010 = document.getElementById("ans10")
-    ans1010.style.display="inline"
     ans1010.innerHTML = quan[index10].correct
     let showanswer10 = document.getElementById("showans10")
     if (showanswer10.style.display != "none") {
@@ -495,3 +485,150 @@ function getsol10() {
     }
 }
 
+
+
+
+checkans = () => {
+    var total=0
+    let ans1 = quan[index].correct
+    var ele1 = document.getElementsByName('age1');
+    for (i = 0; i < ele1.length; i++) {
+        if (ele1[i].checked)
+            var selected1 = ele1[i].value
+    }
+    console.log(selected1)
+    if (ans1 == selected1){
+        console.log("correct")
+        total=total+1
+    }
+    else
+    console.log("Wrong")
+
+    let ans2 = quan[index1].correct
+    var ele2 = document.getElementsByName('age2');
+    for (i = 0; i < ele2.length; i++) {
+        if (ele2[i].checked)
+            var selected2 = ele2[i].value
+    }
+    console.log(selected2)
+    if (ans2 == selected2) {
+        console.log("correct")
+        total=total+1
+    }
+    else
+    console.log("Wrong")
+
+    let ans3 = quan[index3].correct
+    var ele3 = document.getElementsByName('age3');
+    for (i = 0; i < ele3.length; i++) {
+        if (ele3[i].checked)
+            var selected3 = ele3[i].value
+    }
+    console.log(selected3)
+    if (ans3 == selected3) {
+        console.log("correct")
+        total=total+1
+    }
+    else
+    console.log("Wrong")
+
+    let ans4 = quan[index4].correct
+    var ele4 = document.getElementsByName('age4');
+    for (i = 0; i < ele4.length; i++) {
+        if (ele4[i].checked)
+            var selected4 = ele4[i].value
+    }
+    console.log(selected4)
+    if (ans4 == selected4) {
+        console.log("correct")
+        total=total+1
+    }
+    else
+    console.log("Wrong")
+
+    let ans5 = quan[index5].correct
+    var ele5 = document.getElementsByName('age5');
+    for (i = 0; i < ele5.length; i++) {
+        if (ele5[i].checked)
+            var selected5 = ele5[i].value
+    }
+    console.log(selected5)
+    if (ans5 == selected5) {
+        console.log("correct")
+        total=total+1
+    }
+    else
+    console.log("Wrong")
+
+    let ans6 = quan[index6].correct
+    var ele6 = document.getElementsByName('age6');
+    for (i = 0; i < ele6.length; i++) {
+        if (ele6[i].checked)
+            var selected6 = ele6[i].value
+    }
+    console.log(selected6)
+    if (ans6 == selected6) {
+        console.log("correct")
+        total=total+1
+    }
+    else
+    console.log("Wrong")
+
+    let ans7 = quan[index7].correct
+    var ele7 = document.getElementsByName('age7');
+    for (i = 0; i < ele7.length; i++) {
+        if (ele7[i].checked)
+            var selected7 = ele7[i].value
+    }
+    console.log(selected7)
+    if (ans7 == selected7) {
+        console.log("correct")
+        total=total+1
+    }
+    else
+    console.log("Wrong")
+
+    let ans8 = quan[index8].correct
+    var ele8 = document.getElementsByName('age8');
+    for (i = 0; i < ele8.length; i++) {
+        if (ele8[i].checked)
+            var selected8 = ele8[i].value
+    }
+    console.log(selected8)
+    if (ans8 == selected8) {
+        console.log("correct")
+        total=total+1
+    }
+    else
+    console.log("Wrong")
+
+    let ans9 = quan[index9].correct
+    var ele9 = document.getElementsByName('age9');
+    for (i = 0; i < ele9.length; i++) {
+        if (ele9[i].checked)
+            var selected9 = ele9[i].value
+    }
+    console.log(selected9)
+    if (ans9 == selected9) {
+        console.log("correct")
+        total=total+1
+    }
+    else
+    console.log("Wrong")
+
+    let ans10 = quan[index10].correct
+    var ele10 = document.getElementsByName('age10');
+    for (i = 0; i < ele10.length; i++) {
+        if (ele10[i].checked)
+            var selected10 = ele10[i].value
+    }
+    console.log(selected10)
+    if (ans10 == selected10) {
+        console.log("correct")
+        total=total+1
+    }
+    else
+    console.log("Wrong")
+
+    document.getElementById("correctanswers").innerHTML=document.getElementById("correctanswers").innerHTML+total;
+}
