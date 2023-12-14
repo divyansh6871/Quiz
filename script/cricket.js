@@ -7,279 +7,279 @@ let quan = [
     {
         "ques": "By which country cricket was discovered?",
         "sol": { "a": "India", "b": "Australia", "c": "England", "d": "None of these" },
-        "correct": "England"
+        "correct": "3"
     },
     {
         "ques": "By which country cricket was discovered?",
         "sol": { "a": "India", "b": "Australia", "c": "England", "d": "None of these" },
-        "correct": "England"
+        "correct": "3"
     },
     {
         "ques": "How many players play from a single team?",
         "sol": { "a": "10", "b": "12", "c": "9", "d": "11" },
-        "correct": "11"
+        "correct": "4"
     },
     {
         "ques": "How many players play from a single match?",
         "sol": { "a": "20", "b": "22", "c": "24", "d": "18" },
-        "correct": "22"
+        "correct": "2"
     },
     {
         "ques": "How many players are actually playing on filed?",
         "sol": { "a": "11", "b": "13", "c": "14", "d": "12" },
-        "correct": "13"
+        "correct": "2"
     },
     {
         "ques": "How many umpires are there on filed?",
         "sol": { "a": "2", "b": "1", "c": "3", "d": "4" },
-        "correct": "2"
+        "correct": "1"
     },
     {
         "ques": "How many umpires are there in match?",
         "sol": { "a": "2", "b": "3", "c": "4", "d": "5" },
-        "correct": "3"
+        "correct": "2"
     },
     {
         "ques": "Which one is not considered as the matck officials?",
         "sol": { "a": "On filed Umpire", "b": "Camera man", "c": "TV umpire", "d": "Match refree" },
-        "correct": "JCamera man"
+        "correct": "2"
     },
     {
         "ques": "When was first time cricket played?",
         "sol": { "a": "1639 Nehru", "b": "1721", "c": "1621", "d": "1611" },
-        "correct": "1611"
+        "correct": "4"
     },
     {
         "ques": "Most centuries in Cricket game by a single player till now?",
         "sol": { "a": "Virat Kohli", "b": "Sachin Tendulkar", "c": "Ricky Ponting", "d": "Brian Lara" },
-        "correct": "Sachin Tendulkar"
+        "correct": "2"
     },
     {
         "ques": "Most centuries in Cricket game by a single player after Sachin recently?",
         "sol": { "a": "Virat Kohli", "b": "Sachin Tendulkar", "c": "Ricky Ponting", "d": "Brian Lara" },
-        "correct": "Virat Kohli"
+        "correct": "1"
     },
     {
         "ques": "In which Olympics Cricket was included in it?",
         "sol": { "a": "1900 and 1904", "b": "1896 and 1900", "c": "1892 and 1896", "d": "1900 and 1892" },
-        "correct": "1896 and 1900 "
+        "correct": "2 "
     },
     {
         "ques": "Which are the part of bat?",
         "sol": { "a": "Handle", "b": "Blade", "c": "both", "d": "None" },
-        "correct": "both"
+        "correct": "3"
     },
     {
         "ques": "When was first ODI match played?",
         "sol": { "a": "1974", "b": "1983", "c": "1975", "d": "1971" },
-        "correct": "1971 "
+        "correct": "4 "
     },
     {
         "ques": "Among which teams first ODI was played?",
         "sol": { "a": "Australia and India", "b": "India and England", "c": "England and West Indies", "d": "Australia and England" },
-        "correct": "Australia and England"
+        "correct": "4"
     },
     {
         "ques": "First ODI was played in which cricket ground?",
         "sol": { "a": "Melbourne Cricket Ground", "b": "Narendra Modi Stadium", "c": "Perth Stadium", "d": "Eden Gardens" },
-        "correct": "Melbourne Cricket Ground"
+        "correct": "1"
     },
     {
         "ques": "Who won the 2015 World cup?",
         "sol": { "a": "India", "b": "Australia", "c": "England", "d": "West Indies" },
-        "correct": "Australia"
+        "correct": "2"
     },
     {
         "ques": "Who won the 2019 World cup?",
         "sol": { "a": "England", "b": "Australia", "c": "India", "d": "West Indies" },
-        "correct": "England"
+        "correct": "1"
     },
     {
         "ques": "Who is hosting 2023 World cup?",
         "sol": { "a": "India", "b": "Australia", "c": "England", "d": "West Indies" },
-        "correct": "India "
+        "correct": "1 "
     },
     {
         "ques": "When did India won first world cup trophy?",
         "sol": { "a": "1974", "b": "1983", "c": "1975", "d": "1979" },
-        "correct": "1983  "
+        "correct": "2  "
     },
     {
         "ques": "Who won the first ever 50 overs Cricket World cup?",
         "sol": { "a": "Australia", "b": "England", "c": "West Indies", "d": "India" },
-        "correct": "West Indies  "
+        "correct": "3"
     },
     {
         "ques": "When was first world cup held?",
         "sol": { "a": "1974", "b": "1983", "c": "1975", "d": "1979" },
-        "correct": "1975 "
+        "correct": "3 "
     },
     {
         "ques": "Who hosted first ever World Cup?",
         "sol": { "a": "Australia", "b": "England", "c": "West Indies", "d": "India" },
-        "correct": "England "
+        "correct": "2 "
     },
     {
         "ques": "India played first ever Test match against which International team?",
         "sol": { "a": "Australia", "b": "England", "c": "West Indies", "d": "South Africa" },
-        "correct": "England "
+        "correct": "2 "
     },
     {
         "ques": "In which year India played its first International test match?",
         "sol": { "a": "1928", "b": "1940", "c": "1934", "d": "1932" },
-        "correct": "1932"
+        "correct": "4"
     },
     {
         "ques": "In which year India played its first ODI match?",
         "sol": { "a": "1974", "b": "1983", "c": "1975", "d": "1979" },
-        "correct": "1974"
+        "correct": "1"
     },
     {
         "ques": "Against which team India played first ODI match?",
         "sol": { "a": "Australia", "b": "West Indies", "c": "England", "d": "South Africa" },
-        "correct": "England"
+        "correct": "3"
     },
     {
         "ques": "When did India played its first International T20 match?",
         "sol": { "a": "2005", "b": "2006", "c": "2007", "d": "2008" },
-        "correct": "2006"
+        "correct": "2"
     },
     {
         "ques": "India played its first T20 match against which team?",
         "sol": { "a": "South Africa", "b": "England", "c": "Australia", "d": "Pakistan" },
-        "correct": "South Africa"
+        "correct": "1"
     },
     {
         "ques": "Biggest cricket stradium cpacity wise?",
         "sol": { "a": "Melbourne Cricket Ground", "b": "Narendra Modi Stadium", "c": "Perth Stadium", "d": "Eden Gardens" },
-        "correct": "Narendra Modi Stadium"
+        "correct": "2"
     },
     {
         "ques": "Indian batsman to have highest strike rate with atleast 70 matches?",
         "sol": { "a": "Saurav Ganguly", "b": "Sunil Gavaskar", "c": "Rahul Dravid", "d": "Virendra Sehwag" },
-        "correct": "Vriendra Sehwag"
+        "correct": "4"
     },
     {
         "ques": "Indian to have most runs across all formats?",
         "sol": { "a": "Saurav Ganguly", "b": "Sachin tendulkar", "c": "Rahul Dravid", "d": "Virat Kohli" },
-        "correct": "Sachin Tendulkar"
+        "correct": "2"
     },
     {
         "ques": "Indian to have most runs across all formats after Scahin Tendulkar?",
         "sol": { "a": "Saurav Ganguly", "b": "Sunil Gavaskar", "c": "Rahul Dravid", "d": "Virat Kohli" },
-        "correct": "Rahul Dravid"
+        "correct": "3"
     },
     {
         "ques": "Indian to have most wickets across all formats?",
         "sol": { "a": "Jawagal Shreenath", "b": "Ravichandran Ashwin", "c": "Harbhajan Singh", "d": "Anil Kumbhle" },
-        "correct": "Anil Kumbhle"
+        "correct": "4"
     },
     {
         "ques": "Indian to have most wickets across all formats after Anil Kumbhle?",
         "sol": { "a": "Jawagal Shreenath", "b": "Ravichandran Ashwin", "c": "Harbhajan Singh", "d": "Ashok Dinda" },
-        "correct": "Ravichandran Ashwin"
+        "correct": "2"
     },
 
     {
         "ques": "Highest test score by an Indian in Test match?",
-        "sol": { "a": "Karun Nair", "b": "Sachin tendulkar", "c": "Rahul Dravid", "d": "Virat Kohli" },
-        "correct": "Virendra Sehwag"
+        "sol": { "a": "Karun Nair", "b": "Sachin tendulkar", "c": "Virendra Sehwag", "d": "Virat Kohli" },
+        "correct": "3"
     },
 
     {
         "ques": "Along with Virendra Sehwag who has scored 300+ in test?",
         "sol": { "a": "Karun Nair", "b": "Sachin tendulkar", "c": "Rahul Dravid", "d": "Virat Kohli" },
-        "correct": "Karun Nair"
+        "correct": "1"
     },
 
     {
         "ques": "Which Indian has taken 10 wickets in an Test Inning?",
         "sol": { "a": "Jawagal Shreenath", "b": "Ravichandran Ashwin", "c": "Harbhajan Singh", "d": "Anil Kumbhle" },
-        "correct": "Anil Kumbhle"
+        "correct": "4"
     },
 
     {
         "ques": "How many Innings are there in Test Match?",
         "sol": { "a": "0", "b": "4", "c": "1 ", "d": "2" },
-        "correct": "4"
+        "correct": "2"
     },
 
     {
         "ques": "How many innings a team bat maximum times in a test match?",
         "sol": { "a": "0", "b": "4", "c": "1 ", "d": "2" },
-        "correct": "2"
+        "correct": "4"
     },
 
     {
         "ques": "Recently a new ball is introduces in a test match after how many overs?",
         "sol": { "a": "80", "b": "60", "c": "50", "d": "100" },
-        "correct": "80"
+        "correct": "1"
     },
 
     {
         "ques": "Which score in cricket is called Nelson?",
         "sol": { "a": "100", "b": "99", "c": "111", "d": "123" },
-        "correct": "111"
+        "correct": "3"
     },
 
     {
         "ques": "Australia has won Cricket world cup how many times?",
         "sol": { "a": "5", "b": "4", "c": "3", "d": "6" },
-        "correct": "5"
+        "correct": "1"
     },
 
     {
         "ques": "In which world cup 60 over format changed to 50 overs format?",
         "sol": { "a": "1983", "b": "1991", "c": "1995", "d": "1987" },
-        "correct": "1987"
+        "correct": "4"
     },
 
     {
         "ques": "First T20 World cup was held in which year?",
         "sol": { "a": "2006", "b": "2009", "c": "2007", "d": "2005" },
-        "correct": "2007"
+        "correct": "3"
     },
 
     {
         "ques": "Who won first T20 world cup?",
         "sol": { "a": "India", "b": "West Indies", "c": "England", "d": "Australia" },
-        "correct": "India"
+        "correct": "1"
     },
 
     {
         "ques": "Under whose captaincy India won first T20 world cup?",
         "sol": { "a": "Virat Kohli", "b": "Sachin Tendulkar", "c": "Rohit Sharma", "d": "Mahendra Singh Dhoni" },
-        "correct": "Mahendra Singh Dhoni"
+        "correct": "4"
     },
 
     {
         "ques": "Under whose captaincy India won first ODI world cup?",
         "sol": { "a": "Kapil Dev", "b": "Saurav Gabguly", "c": "VVS Laxman", "d": "Sunil Gavaskar" },
-        "correct": "Kapil Dev"
+        "correct": "1"
     },
 
     {
         "ques": "Fastest century in ODI format by an Indian?",
         "sol": { "a": "Rohit SHarma", "b": "Rishab Pant", "c": "VIrat Kohli", "d": "KL Rahul" },
-        "correct": "Virat Kohli"
+        "correct": "3"
     },
 
     {
         "ques": "Fastest century in T20 format by an Indian?",
         "sol": { "a": "Rohit Sharma", "b": "Surya Kumar Yadav", "c": "Sursh Raina", "d": "KL Rahul" },
-        "correct": "Rohit Sharma"
+        "correct": "1"
     },
 
     {
         "ques": "Name the first player to hit a six on first ball of the test inning?",
         "sol": { "a": "Devil Convay", "b": "Virendra Sehwag", "c": "Brendom Mucclum", "d": "Chris Gyale" },
-        "correct": "RChris Gyale"
+        "correct": "4"
     },
 
     {
         "ques": "Weight of cricket ball is?",
         "sol": { "a": "163 gram", "b": "162 gram", "c": "161 gram", "d": "164 gram" },
-        "correct": "163 gram"
+        "correct": "1"
     }
 ]
 
@@ -409,10 +409,21 @@ function hidesol1() {
 
 }
 
+// function showans(){
+//     getsol1();
+//     getsol10();
+//     getsol2();
+//     getsol3();
+//     getsol4();
+//     getsol5();
+//     getsol6();
+//     getsol7();
+//     getsol8();
+//     getsol();
+// }
 
 function getsol1() {
     let ans11 = document.getElementById("ans1")
-    ans11.style.display="inline"
     ans11.innerHTML = quan[index].correct
     let showanswer1 = document.getElementById("showans1")
     if (showanswer1.style.display != "none") {
@@ -421,7 +432,6 @@ function getsol1() {
 }
 function getsol2() {
     let ans22 = document.getElementById("ans2")
-    ans22.style.display="inline"
     ans22.innerHTML = quan[index1].correct
     let showanswer2 = document.getElementById("showans2")
     if (showanswer2.style.display != "none") {
@@ -431,7 +441,6 @@ function getsol2() {
 
 function getsol3() {
     let ans33 = document.getElementById("ans3")
-    ans33.style.display="inline"
     ans33.innerHTML = quan[index3].correct
     let showanswer3 = document.getElementById("showans3")
     if (showanswer3.style.display != "none") {
@@ -441,7 +450,6 @@ function getsol3() {
 
 function getsol4() {
     let ans44 = document.getElementById("ans4")
-    ans44.style.display="inline"
     ans44.innerHTML = quan[index4].correct
     let showanswer4 = document.getElementById("showans4")
     if (showanswer4.style.display != "none") {
@@ -451,7 +459,6 @@ function getsol4() {
 
 function getsol5() {
     let ans55 = document.getElementById("ans5")
-    ans55.style.display="inline"
     ans55.innerHTML = quan[index5].correct
     let showanswer5 = document.getElementById("showans5")
     if (showanswer5.style.display != "none") {
@@ -461,7 +468,6 @@ function getsol5() {
 
 function getsol6() {
     let ans66 = document.getElementById("ans6")
-    ans66.style.display="inline"
     ans66.innerHTML = quan[index6].correct
     let showanswer6 = document.getElementById("showans6")
     if (showanswer6.style.display != "none") {
@@ -471,7 +477,6 @@ function getsol6() {
 
 function getsol7() {
     let ans77 = document.getElementById("ans7")
-    ans77.style.display="inline"
     ans77.innerHTML = quan[index7].correct
     let showanswer7 = document.getElementById("showans7")
     if (showanswer7.style.display != "none") {
@@ -480,9 +485,8 @@ function getsol7() {
 }
 
 function getsol8() {
-    let ans88 = document.getElementById("ans8")
-    ans88.style.display="inline"
-    ans88.innerHTML = quan[index8].correct
+    let ans8 = document.getElementById("ans8")
+    ans8.innerHTML = quan[index8].correct
     let showanswer8 = document.getElementById("showans8")
     if (showanswer8.style.display != "none") {
         showanswer8.style.display = "none";
@@ -491,7 +495,6 @@ function getsol8() {
 
 function getsol9() {
     let ans99 = document.getElementById("ans9")
-    ans99.style.display="inline"
     ans99.innerHTML = quan[index9].correct
     let showanswer9 = document.getElementById("showans9")
     if (showanswer9.style.display != "none") {
@@ -501,7 +504,6 @@ function getsol9() {
 
 function getsol10() {
     let ans1010 = document.getElementById("ans10")
-    ans1010.style.display="inline"
     ans1010.innerHTML = quan[index10].correct
     let showanswer10 = document.getElementById("showans10")
     if (showanswer10.style.display != "none") {
@@ -509,3 +511,149 @@ function getsol10() {
     }
 }
 
+
+
+checkans = () => {
+    var total=0
+    let ans1 = quan[index].correct
+    var ele1 = document.getElementsByName('age1');
+    for (i = 0; i < ele1.length; i++) {
+        if (ele1[i].checked)
+            var selected1 = ele1[i].value
+    }
+    console.log(selected1)
+    if (ans1 == selected1){
+        console.log("correct")
+        total=total+1
+    }
+    else
+    console.log("Wrong")
+
+    let ans2 = quan[index1].correct
+    var ele2 = document.getElementsByName('age2');
+    for (i = 0; i < ele2.length; i++) {
+        if (ele2[i].checked)
+            var selected2 = ele2[i].value
+    }
+    console.log(selected2)
+    if (ans2 == selected2) {
+        console.log("correct")
+        total=total+1
+    }
+    else
+    console.log("Wrong")
+
+    let ans3 = quan[index3].correct
+    var ele3 = document.getElementsByName('age3');
+    for (i = 0; i < ele3.length; i++) {
+        if (ele3[i].checked)
+            var selected3 = ele3[i].value
+    }
+    console.log(selected3)
+    if (ans3 == selected3) {
+        console.log("correct")
+        total=total+1
+    }
+    else
+    console.log("Wrong")
+
+    let ans4 = quan[index4].correct
+    var ele4 = document.getElementsByName('age4');
+    for (i = 0; i < ele4.length; i++) {
+        if (ele4[i].checked)
+            var selected4 = ele4[i].value
+    }
+    console.log(selected4)
+    if (ans4 == selected4) {
+        console.log("correct")
+        total=total+1
+    }
+    else
+    console.log("Wrong")
+
+    let ans5 = quan[index5].correct
+    var ele5 = document.getElementsByName('age5');
+    for (i = 0; i < ele5.length; i++) {
+        if (ele5[i].checked)
+            var selected5 = ele5[i].value
+    }
+    console.log(selected5)
+    if (ans5 == selected5) {
+        console.log("correct")
+        total=total+1
+    }
+    else
+    console.log("Wrong")
+
+    let ans6 = quan[index6].correct
+    var ele6 = document.getElementsByName('age6');
+    for (i = 0; i < ele6.length; i++) {
+        if (ele6[i].checked)
+            var selected6 = ele6[i].value
+    }
+    console.log(selected6)
+    if (ans6 == selected6) {
+        console.log("correct")
+        total=total+1
+    }
+    else
+    console.log("Wrong")
+
+    let ans7 = quan[index7].correct
+    var ele7 = document.getElementsByName('age7');
+    for (i = 0; i < ele7.length; i++) {
+        if (ele7[i].checked)
+            var selected7 = ele7[i].value
+    }
+    console.log(selected7)
+    if (ans7 == selected7) {
+        console.log("correct")
+        total=total+1
+    }
+    else
+    console.log("Wrong")
+
+    let ans8 = quan[index8].correct
+    var ele8 = document.getElementsByName('age8');
+    for (i = 0; i < ele8.length; i++) {
+        if (ele8[i].checked)
+            var selected8 = ele8[i].value
+    }
+    console.log(selected8)
+    if (ans8 == selected8) {
+        console.log("correct")
+        total=total+1
+    }
+    else
+    console.log("Wrong")
+
+    let ans9 = quan[index9].correct
+    var ele9 = document.getElementsByName('age9');
+    for (i = 0; i < ele9.length; i++) {
+        if (ele9[i].checked)
+            var selected9 = ele9[i].value
+    }
+    console.log(selected9)
+    if (ans9 == selected9) {
+        console.log("correct")
+        total=total+1
+    }
+    else
+    console.log("Wrong")
+
+    let ans10 = quan[index10].correct
+    var ele10 = document.getElementsByName('age10');
+    for (i = 0; i < ele10.length; i++) {
+        if (ele10[i].checked)
+            var selected10 = ele10[i].value
+    }
+    console.log(selected10)
+    if (ans10 == selected10) {
+        console.log("correct")
+        total=total+1
+    }
+    else
+    console.log("Wrong")
+
+    document.getElementById("correctanswers").innerHTML=document.getElementById("correctanswers").innerHTML+total;
+}
