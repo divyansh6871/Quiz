@@ -162,15 +162,28 @@
                 <!-- <button class="btn btn-primary" id="score" onclick="checkans()">submit</button> -->
                 <!-- <div class="text-center"><input type="submit" class="btn btn-primary" name="" id="" onclick="checkans()"></div><br> -->
             </form>
-            
-            <button class="btn btn-primary" onclick="checkans()">submit</button>
-            <button class="btn btn-primary" id="correctanswers" onclick="checkans()">Scores are: </button>
+            <div style="text-align: center;">
+                <button class="btn btn-primary" id="submitbutton" onclick="checkans()">submit</button>
+                <span class="btn btn-primary" id="correctanswers" style="display: none;" onclick="checkans()">Scores are : </span>
+                <span class="btn btn-primary" id="showanswers" style="display: none;" onclick="showans()">See Answers</span>
+            </div>
 
 
         </div>
     </div>
 
-
+    <div id="checkanshere" style="display: none;">
+        <p id="ans1"></p>
+        <p id="ans2"></p>
+        <p id="ans3"></p>
+        <p id="ans4"></p>
+        <p id="ans5"></p>
+        <p id="ans6"></p>
+        <p id="ans7"></p>
+        <p id="ans8"></p>
+        <p id="ans9"></p>
+        <p id="ans10"></p>
+    </div>
     <!-- questionair ends -->
 
 
