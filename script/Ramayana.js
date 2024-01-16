@@ -392,90 +392,169 @@ function hidesol1() {
 
 function getsol1() {
     let ans11 = document.getElementById("ans1")
-    ans11.innerHTML = quan[index].correct
-    let showanswer1 = document.getElementById("showans1")
-    if (showanswer1.style.display != "none") {
-        showanswer1.style.display = "none";
+    let num = quan[index].correct
+    if(num==1){
+        ans11.innerHTML=quan[index].sol.a
+    }
+    else if(num==2){
+        ans11.innerHTML=quan[index].sol.b
+    }
+    else if(num==3){
+        ans11.innerHTML=quan[index].sol.c
+    }
+    else{
+        ans11.innerHTML=quan[index].sol.d
     }
 }
 function getsol2() {
     let ans22 = document.getElementById("ans2")
-    ans22.innerHTML = quan[index1].correct
-    let showanswer2 = document.getElementById("showans2")
-    if (showanswer2.style.display != "none") {
-        showanswer2.style.display = "none";
+    let num = quan[index1].correct
+    if(num==1){
+        ans22.innerHTML=quan[index1].sol.a
+    }
+    else if(num==2){
+        ans22.innerHTML=quan[index1].sol.b
+    }
+    else if(num==3){
+        ans22.innerHTML=quan[index1].sol.c
+    }
+    else{
+        ans22.innerHTML=quan[index1].sol.d
     }
 }
 
 function getsol3() {
     let ans33 = document.getElementById("ans3")
-    ans33.innerHTML = quan[index3].correct
-    let showanswer3 = document.getElementById("showans3")
-    if (showanswer3.style.display != "none") {
-        showanswer3.style.display = "none";
+    let num = quan[index3].correct
+    if(num==1){
+        ans33.innerHTML=quan[index3].sol.a
+    }
+    else if(num==2){
+        ans33.innerHTML=quan[index3].sol.b
+    }
+    else if(num==3){
+        ans33.innerHTML=quan[index3].sol.c
+    }
+    else{
+        ans33.innerHTML=quan[index3].sol.d
     }
 }
 
 function getsol4() {
     let ans44 = document.getElementById("ans4")
-    ans44.innerHTML = quan[index4].correct
-    let showanswer4 = document.getElementById("showans4")
-    if (showanswer4.style.display != "none") {
-        showanswer4.style.display = "none";
+    let num = quan[index4].correct
+    if(num==1){
+        ans44.innerHTML=quan[index4].sol.a
+    }
+    else if(num==2){
+        ans44.innerHTML=quan[index4].sol.b
+    }
+    else if(num==3){
+        ans44.innerHTML=quan[index4].sol.c
+    }
+    else{
+        ans44.innerHTML=quan[index4].sol.d
     }
 }
 
 function getsol5() {
     let ans55 = document.getElementById("ans5")
-    ans55.innerHTML = quan[index5].correct
-    let showanswer5 = document.getElementById("showans5")
-    if (showanswer5.style.display != "none") {
-        showanswer5.style.display = "none";
+    let num = quan[index5].correct
+    if(num==1){
+        ans55.innerHTML=quan[index5].sol.a
+    }
+    else if(num==2){
+        ans55.innerHTML=quan[index5].sol.b
+    }
+    else if(num==3){
+        ans55.innerHTML=quan[index5].sol.c
+    }
+    else{
+        ans55.innerHTML=quan[index5].sol.d
     }
 }
 
 function getsol6() {
     let ans66 = document.getElementById("ans6")
-    ans66.innerHTML = quan[index6].correct
-    let showanswer6 = document.getElementById("showans6")
-    if (showanswer6.style.display != "none") {
-        showanswer6.style.display = "none";
+    let num = quan[index6].correct
+    if(num==1){
+        ans66.innerHTML=quan[index6].sol.a
+    }
+    else if(num==2){
+        ans66.innerHTML=quan[index6].sol.b
+    }
+    else if(num==3){
+        ans66.innerHTML=quan[index6].sol.c
+    }
+    else{
+        ans66.innerHTML=quan[index6].sol.d
     }
 }
 
 function getsol7() {
     let ans77 = document.getElementById("ans7")
-    ans77.innerHTML = quan[index7].correct
-    let showanswer7 = document.getElementById("showans7")
-    if (showanswer7.style.display != "none") {
-        showanswer7.style.display = "none";
+    let num = quan[index7].correct
+    if(num==1){
+        ans77.innerHTML=quan[index7].sol.a
+    }
+    else if(num==2){
+        ans77.innerHTML=quan[index7].sol.b
+    }
+    else if(num==3){
+        ans77.innerHTML=quan[index7].sol.c
+    }
+    else{
+        ans77.innerHTML=quan[index7].sol.d
     }
 }
 
 function getsol8() {
     let ans8 = document.getElementById("ans8")
-    ans8.innerHTML = quan[index8].correct
-    let showanswer8 = document.getElementById("showans8")
-    if (showanswer8.style.display != "none") {
-        showanswer8.style.display = "none";
+    let num = quan[index8].correct
+    if(num==1){
+        ans88.innerHTML=quan[index8].sol.a
+    }
+    else if(num==2){
+        ans88.innerHTML=quan[index8].sol.b
+    }
+    else if(num==3){
+        ans88.innerHTML=quan[index7].sol.c
+    }
+    else{
+        ans88.innerHTML=quan[index6].sol.d
     }
 }
-
 function getsol9() {
     let ans99 = document.getElementById("ans9")
-    ans99.innerHTML = quan[index9].correct
-    let showanswer9 = document.getElementById("showans9")
-    if (showanswer9.style.display != "none") {
-        showanswer9.style.display = "none";
+    let num = quan[index9].correct
+    if(num==1){
+        ans99.innerHTML=quan[index9].sol.a
+    }
+    else if(num==2){
+        ans99.innerHTML=quan[index9].sol.b
+    }
+    else if(num==3){
+        ans99.innerHTML=quan[index9].sol.c
+    }
+    else{
+        ans99.innerHTML=quan[index9].sol.d
     }
 }
 
 function getsol10() {
     let ans1010 = document.getElementById("ans10")
-    ans1010.innerHTML = quan[index10].correct
-    let showanswer10 = document.getElementById("showans10")
-    if (showanswer10.style.display != "none") {
-        showanswer10.style.display = "none";
+    let num = quan[index10].correct
+    if(num==1){
+        ans1010.innerHTML=quan[index1010].sol.a
+    }
+    else if(num==2){
+        ans1010.innerHTML=quan[index1010].sol.b
+    }
+    else if(num==3){
+        ans1010.innerHTML=quan[index1010].sol.c
+    }
+    else{
+        ans1010.innerHTML=quan[index1010].sol.d
     }
 }
 
@@ -628,5 +707,21 @@ checkans = () => {
     else
     console.log("Wrong")
 
+    document.getElementById("correctanswers").style.display="inline"
     document.getElementById("correctanswers").innerHTML=document.getElementById("correctanswers").innerHTML+total;
+    document.getElementById("submitbutton").style.display="none"
+    document.getElementById("showanswers").style.display="inline"
+}
+function showans(){
+    document.getElementById("checkanshere").style.display="block";
+    getsol1()
+    getsol2()
+    getsol3()
+    getsol4()
+    getsol5()
+    getsol6()
+    getsol7()
+    getsol8()
+    getsol9()
+    getsol10()
 }
