@@ -655,5 +655,8 @@ checkans = () => {
     else
     console.log("Wrong")
 
+    document.getElementById("correctanswers").style.display="inline"
     document.getElementById("correctanswers").innerHTML=document.getElementById("correctanswers").innerHTML+total;
+    document.getElementById("submitbutton").style.display="none"
+    document.getElementById("showanswers").style.display="inline"
 }
