@@ -165,9 +165,11 @@
                 <!-- <div class="text-center"><input type="submit" class="btn btn-primary" name="" id=""></div><br> -->
             </form>
 
-            
-            <button class="btn btn-primary" onclick="checkans()">submit</button>
-            <button class="btn btn-primary" id="correctanswers" onclick="checkans()">Scores are: </button>
+            <div style="text-align: center;">
+                <button class="btn btn-primary" id="submitbutton" onclick="checkans()">submit</button>
+                <span class="btn btn-primary" id="correctanswers" style="display: none;" onclick="checkans()">Scores are : </span>
+                <span class="btn btn-primary" id="showanswers" style="display: none;" onclick="showans()">See Answers</span>
+            </div>
             
         </div>
     </div>
