@@ -235,6 +235,12 @@ let quan = [
         "ques": "Who are the chiranjeevi since the Dwapar yuga?",
         "sol": { "a": "Ved Vyas ji", "b": "Ashwatthama", "c": "both", "d": "None" },
         "correct": "3"
+    },
+
+    {
+        "ques": "Who are the chiranjeevi since the Dwapar yuga?",
+        "sol": { "a": "Ved Vyas ji", "b": "Ashwatthama", "c": "both", "d": "None" },
+        "correct": "3"
     }
 ]
 
@@ -600,5 +606,8 @@ checkans = () => {
     else
     console.log("Wrong")
 
+    document.getElementById("correctanswers").style.display="inline"
     document.getElementById("correctanswers").innerHTML=document.getElementById("correctanswers").innerHTML+total;
+    document.getElementById("submitbutton").style.display="none"
+    document.getElementById("showanswers").style.display="inline"
 }
